@@ -12,7 +12,7 @@ See the Jupyter Notebook for the operation of the network.
 	Fully connected layer
 
 
-The training data has been included in this repository: the entire ninth season of Seinfeld.
+The training data has been included in this repository: the entire nineth season of Seinfeld.
 
 # To do:
 - There are some background python files I would like to either bring to the surface or remove from the notebook. One being the unit code checker.
