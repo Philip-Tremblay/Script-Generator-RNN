@@ -4,7 +4,7 @@ This recurrent neural network trains on a large number of scripts to generate a 
 This is a project with the Udacity Deep Learning Nanodegree.
 See the Jupyter Notebook for the operation of the network.
 
-#RNN Architecture:
+# RNN Architecture:
 
 	Embedding layer
 	LSTM layer
@@ -14,12 +14,12 @@ See the Jupyter Notebook for the operation of the network.
 
 The training data has been included in this repository: the entire ninthe season of Seinfeld.
 
-#To do:
+# To do:
 - There are some background python files I would like to either bring to the surface or remove from the notebook. One being the unit code checker.
 - Dynamically set the number of epochs.
 
 
-#Example of a generated script:
+# Example of a generated script:
 
 jerry: robin's one who got the big salad.
 
